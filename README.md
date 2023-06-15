@@ -24,4 +24,4 @@ node index.js
 
 ## Tutorial
 Detalles de la implementacion en:
-[Link text Here]([https://link-url-here.org](https://medium.com/@betogomez_r/chatbot-usando-la-api-de-openai-en-javascript-bd87ac72853))
+[chatbot-usando-la-api-de-openai](https://medium.com/@betogomez_r/chatbot-usando-la-api-de-openai-en-javascript-bd87ac72853)
