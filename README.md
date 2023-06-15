@@ -1,13 +1,26 @@
 # chatbot-js
-Simple chatbot usando openai API en javascript
+Simple chatbot en terminal usando OpenAI API en javascript
 
 ## Prerequisitos
 
 * NodeJS v14, v16, v18
 
-### Clonar e instalar
+## Clonar e instalar
 
 ```sh
 git clone https://github.com/betogomezdev/chatbot-js.git
 cd chatbot-js && npm install
 ```
+## Variable Entorno
+Agregamos la variable OPENAI_API_KEY en .env
+```sh
+cp .env-template .env
+```
+## Ejecutar 
+
+```sh
+node index.js 
+```
+
+## Tutorial
+[Link text Here](https://link-url-here.org)
